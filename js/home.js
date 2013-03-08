@@ -46,7 +46,7 @@ jQuery(document).ready(function() {
                 var a = document.createElement('a');
                 a.href = mostpop.uri;
                 link.appendChild(a);
-                a.innerHTML = mostpop.name + ' where Popularity is highest';
+                a.innerHTML = mostpop.name + ' where Popularity is highest, equal to ' + pop;
                 fragment.appendChild(link);
 
             searchHTML.appendChild(fragment);
