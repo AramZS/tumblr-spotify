@@ -1,0 +1,22 @@
+<!DOCTYPE html>    
+	<head>
+        <!-- Spotify CSS files -->
+        <link rel="stylesheet" type="text/css" href="sp://resources/css/eve.css">
+        <link rel="stylesheet" type="text/css" href="sp://resources/css/api.css">
+        <link rel="stylesheet" type="text/css" href="sp://resources/css/player.css">
+        <link rel="stylesheet" type="text/css" href="sp://resources/css/list.css">
+
+        <!-- Project CSS files -->
+        <!-- <link rel="stylesheet" type="text/css" href="css/main.css"> -->
+    </head>
+    <body>
+        <div id="wrapper">
+            <div id="history" class="section">	
+				<h1>Tumbl Spotify History</h1>
+				<a href="spotify:app:tumblr-spotify:index">A link to the home tab.</a>
+            </div>	
+        </div>
+        <!-- <script src="/js/tutorial.js"></script> -->
+    </body>
+</html>
+			
